@@ -1,0 +1,1 @@
+hunalign.exe data\null.dic ch32.en ch32ENG.de -text > align.txt

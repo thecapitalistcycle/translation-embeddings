@@ -1,0 +1,25 @@
+Program: LF Aligner, version: 4.1, OS: Windows, launched: 2017.12.10_04.54.34
+
+Setup: filetype_def: t; filetype_prompt: n; lang_1_iso_def: en; lang_2_iso_def: hu; l1_prompt: y; l2_prompt: y; segmenttext: y; confirm_segmenting: n; cleanup_def: y; cleanup_prompt: n; review_def: x; review_prompt: n; create_tmx_def: y; create_tmx_prompt: n; tmx_langcode_1_def: ; tmx_langcode_2_def: ; tmx_langcode_1_prompt: y; tmx_langcode_2_prompt: y; creationdate_prompt: y; creationid_def: LF Aligner 4.1; creationid_prompt: y; ask_master_TM: y; chopmode: 15000; tmxnote_prompt: y; skiphalfempty: y; pdfmode: y; gui: 
+
+Command line arguments on
+GUI off
+filetype: t
+Input file 1: ch33_clean.en.txt (../Texts/FirstEnglishEdition/cleaned\ch33_clean.en.txt)
+Input file 2: ch33_clean.de.txt (../Texts/ThirdGermanEdition/cleaned\ch33_clean.de.txt)
+Input file sizes: 20537 bytes 20995 bytes
+File sizes after conversion to txt: 20537 bytes 20995 bytes
+Initial stats: 
+- en: 1 segments,	3354 words,	20361 chars
+- de: 1 segments,	2811 words,	20663 chars
+Segmentation: y, segment numbers: 
+- en: 1 -> 121
+- de: 1 -> 124
+Using segmented file versions
+Hunalign dictionary: en-de.dic
+Using Hunalign in normal mode (121 is less than 15000)
+Aligned file: 119 segments, 42523 bytes (..\Texts/Aligned/align_2017.12.10/aligned_en-de.txt)
+Cleanup: y
+Review: n
+Create TMX: n
+Terminated normally.

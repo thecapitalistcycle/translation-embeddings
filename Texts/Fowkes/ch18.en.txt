@@ -1,0 +1,43 @@
+Chapter 18: Different Formulae for the Rate of Surplus-Value
+
+
+We have seen that the rate of surplus-value is represented by the following formulae:
+
+
+The first two formulae represent, as a ratio of values, what is represented in the third formula as a ratio of the times during which those values are produced. These mutually replaceable formulae are rigorously definite and correct. We therefore find them worked out in classical political economy in substance, but not in a conscious form. Political economy in fact provides us with derivative formulae, as follows:
+
+*
+
+
+One and the same proportion is expressed here alternately in the form of labour-times, of the values in which those labour-times are embodied, and of the products in which those values exist. It is of course understood that by ‘value of the product’ the political economists mean only the value newly created in a working day, the constant part of the value of the product being excluded.
+
+In all the formulae included under II the actual degree of exploitation of labour, or the rate of surplus-value, is falsely expressed. Let the working day be 12 hours long. Then, making the same assumptions as we have before, the real degree of exploitation of labour will be represented by the following proportions:
+
+
+From the formulae included under II, we get, on the contrary:
+
+6 hours surplus labour/Working day of 12 hours = Surplus-value of 3s./Value-product of 6s. = 50 per cent
+
+These derivative formulae express, in reality, only the proportion in which the working day, or the value produced by it, is divided between the capitalist and the worker. If they are to be treated as direct expressions of the degree of capital’s self-valorization, the following erroneous law would hold good: surplus labour or surplus-value can never reach 100 per cent.1 Since the surplus labour is only an aliquot part of the working day, or since surplus-value is only an aliquot part of the value-product, surplus labour must always be less than the working day, or the surplus-value always less than the total value-product. In order, however, to attain the ratio of 100:100 they must be equal. In order for the surplus labour to absorb the whole day (i.e. an average day of any week or year) the necessary labour would have to sink to zero. But if necessary labour vanishes, surplus labour does as well, since it is only a function of the necessary labour. The ratio Surplus labour/Working day, or Surplus-value/Value-product can therefore never reach the limit of 100/100, still less rise to 100+x/100. The rate of surplus-value, however, the real degree of exploitation of labour, is able to do this. Take, for example, the estimate of L. de Lavergne, according to which the English agricultural labourer gets only 1/4 of the product2 or of its value, while the capitalist farmer gets 3/4, whatever the subsequent division of the booty between the capitalist, the landowner and others. On this calculation, the surplus labour of the English agricultural labourer is related to his necessary labour in the ratio of 3:1, which gives a rate of exploitation of 300 per cent.
+
+Through the use of the formulae given under II, the political economists’ favourite method of treating the working day as constant in magnitude became a fixed usage, because in those formulae surplus labour is always compared with a working day of a given length.
+
+When the political economists treat surplus-value and the value of labour-power as fractions of the value-product – a mode of presentation which arises, by the way, out of the capitalist mode of production itself, and whose significance we shall unearth later on – they conceal the specific character of the capital-relation, namely the fact that variable capital is exchanged for living labour-power, and that the worker is accordingly excluded from the product. Instead of revealing the capital-relation they show us the false semblance of a relation of association, in which worker and capitalist divide the product in proportion to the different elements which they respectively contribute towards its formation.3
+
+But in any case, the formulae given under III can always be reconverted into the original formulae. If, for instance, we have
+
+Surplus labour of 6 hours/Working day of 12 hours
+
+
+then the necessary labour-time is the 12 hours of the working day minus the surplus labour of 6 hours, and we get the following result:
+
+Surplus labour of 6 hours/Necessary labour of 6 hours = 100/100
+
+
+There is a third formula, which I have occasionally anticipated:
+
+III. Surplus-value/Value of labour-power = Surplus labour/Necessary labour = Unpaid labour/Paid labour
+
+After the analysis given above, it is no longer possible to be misled by the formula unpaid labour/paid labour into concluding that the capital list pays for labour and not for labour-power. Unpaid labour/Paid labour is only a popular expression for sulplus labour/necessary labour. The capitalist necessary labour pays the value of the labour-power (or, if the price diverges from this, he pays the price) and receives in exchange the right to dispose of the living labour-power itself. The length of time during which he utilizes this labour-power is divided into two separate periods. During one period, the worker produces a value that is only equal to the value of his labour-power, i.e. he produces its equivalent. Thus the capitalist receives, in return for advancing the price of the labour-power, a product of the same price. It is the same as if he had bought the product ready-made in the market. During the other period, the period of surplus labour, the utilization of the labour-power creates a value for the capitalist without costing him any value in return4. He is thus able to set labour-power in motion without paying for it. It is in this sense that surplus labour can be called unpaid labour.
+
+Capital, therefore, is not only the command over labour, as Adam Smith thought. It is essentially the command over unpaid labour. All surplus-value, whatever particular form (profit, interest or rent) it may subsequently crystallize into, is in substance the materialization of unpaid labour-time. The secret of the self-valorization of capital resolves itself into the fact that it has at its disposal a definite quantity of the unpaid labour of other people[fremder Arbeit].

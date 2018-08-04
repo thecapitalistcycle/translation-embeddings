@@ -1,0 +1,129 @@
+Chapter 22: National Differences in Wages
+
+
+In Chapter 17 we were concerned with the manifold combinations which may bring about a change in the magnitude of the value of labour-power – this magnitude being considered either absolutely or relatively (i.e. as compared with surplus-value). We found also that the quantity of the means of subsistence in which the price of labour-power was realized might again undergo fluctuations independent of,1 or different from, the changes in this price. As has been said already, the simple translation of the value, or respectively of the price, of labour-power, into the exoteric form of wages transforms all these laws into laws governing the movement of wages. What appears within the movement of wages as a series of varying combinations may appear for different countries as a set of simultaneous differences in national wage-levels. In comparing wages in different nations, we must therefore take into account all the factors that determine changes in the amount of the value of labour-power; the price and the extent of the prime necessities of life in their natural and historical development, the cost of training the workers, the part played by the labour of women and children, the productivity of labour, and its extensive and intensive magnitude. Even the most superficial comparison requires the prior reduction of the average daily wage for the same trades, in different countries, to a uniform working day. After this reduction of the daily wage to the same terms, the time-wage must again be translated into the piece-wage, as only the latter can be a measure both of the productivity and of the intensity of labour.
+
+In every country there is a certain average intensity of labour, below which the labour for the production of a commodity requires more than the time socially necessary, and therefore does not count as labour of normal quality. In a given country, only a degree of intensity which is above the national average alters the measurement of value by the mere duration of labour-time. It is otherwise on the world market, whose integral parts are the individual countries. The average intensity of labour changes from country to country; here is it greater, there less. These national averages form a scale whose unit of measurement is the average unit of universal labour. The more intense national labour, therefore, as compared with the less intense, produces in the same time more value, which expresses itself in more money.
+
+But the law of value is yet more modified in its international application by the fact that, on the world market, national labour which is more productive also counts as more intensive, as long as the more productive nation is not compelled by competition to lower the selling price of its commodities to the level of their value.
+
+In proportion as capitalist production is developed in a country, so, in the same proportion, do the national intensity and productivity of labour there rise above the international level.2 The different quantities of commodities of the same kind, produced in different countries in the same working time, have, therefore, unequal international values, which are expressed in different prices, i.e. in sums of money varying according to international values. The relative value of money will therefore be less in the nation with a more developed capitalist mode of production than in the nation with a less developed capitalism. It follows then that nominal wages, the equivalent of labour-power expressed in money, will also be higher in the first nation than in the second; but this by no means proves that the same can be said of real wages, i.e. the means of subsistence placed at the disposal of the worker.
+
+But even apart from these relative differences in the value of money in different countries, it will frequently be found that the daily or weekly wage in the first nation is higher than in the second while the relative price of labour, i.e. the price of labour as compared both with surplus-value and with the value of the product, stands higher in the second than in the first.3
+
+J. W. Cowell, a member of the Factory Commission of 1833, came to the conclusion, after careful investigation of the spinning trade, that ‘in England wages are virtually lower to the capitalist, though higher to the operative than on the Continent of Europe’ (Ure, p. 314). The English factory inspector Alexander Redgrave, in his Report of 31 October 1866, proves, by comparing the statistics of Continental states, that in spite of lower wages and much longer hours of work, Continental labour is, in proportion to the product, dearer than English. The English manager of a cotton factory in Oldenburg declared that the working hours there were from 5.30 a.m. to 8 p.m., Saturdays included, and that the workers, when under English overseers, did not supply during this time quite so much of the product as the English in 10 hours, while they supplied much less when under German overseers. Wages are much lower than in England, in many cases lower by 50 per cent, but the number of ‘hands’ in proportion to the machinery is much greater, in certain departments in the proportion of 5:3. Mr Redgrave also gives very precise details as to the Russian cotton factories. The data were given him by an English manager until recently employed there. On this Russian soil, so fruitful of all infamies, the old horrors of the early days of English factories are in full swing. The managers are, of course, English, as the native Russian capitalist is incapable of handling factory business. Despite all the over-work, which continues throughout the day and the night, despite the most shameful under-payment of the workers, Russian manufacturing only manages to vegetate thanks to the prohibition of foreign competition. I give, in conclusion, a comparative table of Mr Redgrave’s on the average number of spindles per factory and per spinner in the different countries of Europe. He himself remarks that these figures were collected a few years ago, and that since that time the size of the factories and the number of spindles per worker in England has increased. He assumes, however, that an approximately equal advance has been made in the Continental countries mentioned, so that the numbers given would still retain their value for purposes of comparison.
+
+AVERAGE NUMBER OF SPINDLES PER FATORY
+
+
+England
+    
+
+12,600
+
+France
+    
+
+1,500
+
+Prussia
+    
+
+1,500
+
+Belgium
+    
+
+4,000
+
+Saxony
+    
+
+4,500
+
+Austria
+    
+
+7,000
+
+Switzerland
+    
+
+8,000
+
+AVERAGE NUMBER OF SPINDLES PER PERSON
+
+
+    
+
+One person to:
+
+France
+    
+
+14    spindles
+
+Russia
+    
+
+28                ”
+
+Prussia
+    
+
+37                ”
+
+Bavaria
+    
+
+46                ”
+
+Austria
+    
+
+49                ”
+
+Belgium
+    
+
+50                ”
+
+Saxony
+    
+
+50                ”
+
+Switzerland
+    
+
+55                ”
+
+Smaller German states
+    
+
+55                ”
+
+Great Britain
+    
+
+74                ”
+
+‘This comparison,’ says Mr Redgrave, ‘is yet more unfavourable to Great Britain, inasmuch as there is so large a number of factories in which weaving by power is carried on in conjunction with spinning’ (while in the table the weavers are not deducted) ‘and the factories abroad are chiefly spinning factories; if it were possible to compare like with like, strictly, I could find many cotton spinning factories in my district in which mules containing 2,200 spindles are minded by one man (the “minder”) and two assistants only, turning off daily 220 lb. of yarn, measuring 400 miles in length’ (Reports of the Inspectors of Factories… 31 October 1866, pp. 31–7, passim).
+
+It is well known that in Eastern Europe, as well as in Asia, English companies have undertaken the construction of railways, and have, in making them, employed a certain number of English workers side by side with the locals. Practical necessity has thus compelled them to take into account the national differences in the intensity of labour, but this has not brought them any loss. Their experience shows that even if the level of wages more or less corresponds with the average intensity of labour, the relative price of labour (i.e. the price of labour in relation to the product) generally varies in the inverse direction.
+
+In an Essay on the Rate of Wages,4 one of his first economic writings, H. Carey tries to prove that differences in national wage-levels are directly proportional to the degree of productivity of the working day of each nation, in order to draw from this international ratio the deduction that wages everywhere rise and fall in proportion to the productivity of labour. The whole of our analysis of the production of surplus-value shows that this deduction would be absurd even if Carey himself had demonstrated his premises, instead of shuffling a confused mass of statistical material to and fro in his usual uncritical and superficial manner. The best of all is that he does not assert that things actually are as they ought to be according to his theory. For state intervention has falsified the natural economic relation. The different national wages must therefore be calculated on the assumption that the part of them that goes to the state in the form of taxes was received by the worker himself. Ought not Mr Carey to consider further whether these ‘state expenses’ are not the ‘natural fruits’ of capitalist development? His reasoning is quite worthy of the man who, first of all, declared that capitalist relations of production were eternal laws of nature and reason, whose free and harmonious working was only disturbed by the intervention of the state, and then discovered afterwards that state intervention, i.e. the defence of those laws of nature and reason by the state, alias the system of protection, was necessitated by the diabolical influence of England on the world market, an influence which, it appears, does not spring from the natural laws of capitalist production. He discovered, further, that the theorems of Ricardo and others, in which existing social antagonisms and contradictions are formulated, are not the ideal product of the real economic movement, but, on the contrary, that the real antagonisms of capitalist production in England and elsewhere are the result of the theories of Ricardo and others! Finally he discovered that it is, in the last resort, trade which destroys the inborn beauties and harmonies of the capitalist mode of production. A step further, and he will perhaps discover that the one evil in capitalist production is capital itself. Only a man with such an atrocious lack of the critical faculty, and such spurious erudition, deserved, in spite of his Protectionist heresy, to become the secret source of the harmonious wisdom of a Bastiat, and of all the other free-trade optimists of the present day.
+
+
+Part Seven
+The Process of Accumulation of Capital
+
+The transformation of a sum of money into means of production and labour-power is the first phase of the movement undergone by the quantum of value which is going to function as capital. It takes place in the market, within the sphere of circulation. The second phase of the movement, the process of production, is complete as soon as the means of production have been converted into commodities whose value exceeds that of their component parts, and therefore contains the capital originally advanced plus a surplus-value. These commodities must then be thrown back into the sphere of circulation. They must be sold, their value must be realized in money, this money must be transformed once again into capital, and so on, again and again. This cycle, in which the same phases are continually gone through in succession, forms the circulation of capital.
+
+The first condition of accumulation is that the capitalist must have contrived to sell his commodities, and to reconvert into capital the greater part of the money received from their sale. In the following pages, we shall assume that capital passes through its process of circulation in the normal way. The detailed analysis of the process will be found in Volume 2.
+
+The capitalist who produces surplus-value, i.e. who extracts unpaid labour directly from the workers and fixes it in commodities, is admittedly the first appropriator of this surplus-value, but he is by no means its ultimate proprietor. He has to share it afterwards with capitalists who fulfil other functions in social production taken as a whole, with the owner of the land, and with yet other people. Surplus-value is therefore split up into various parts. Its fragments fall to various categories of person, and take on various mutually independent forms, such as profit, interest, gains made through trade, ground rent, etc. We shall be able to deal with these modified forms of surplus-value only in Volume 3.
+
+On the one hand, then, we assume here that the capitalist sells the commodities he has produced at their value, and we shall not concern ourselves with their later return to the market, or the new forms that capital assumes while in the sphere of circulation, or the concrete conditions of reproduction hidden within those forms. On the other hand, we treat the capitalist producer as the owner of the entire surplus-value, or, perhaps better, as the representative of all those who will share the booty with him. We shall therefore begin by considering accumulation from an abstract point of view, i.e. simply as one aspect of the immediate process of production.
+
+In so far as accumulation actually takes place, the capitalist must have succeeded in selling his commodities, and in reconverting the money shaken loose from them into capital. Moreover, the break-up of surplus-value into various fragments does not affect either its nature or the conditions under which it becomes an element in accumulation. Whatever the proportion of surplus-value which the capitalist producer retains for himself, or yields up to others, he is the one who in the first instance appropriates it. In our presentation of accumulation, then, we assume no more than is assumed by the actual process of accumulation itself. On the other hand, the simple, fundamental form of the process of accumulation is obscured both by the splitting-up of surplus-value and by the mediating movement of circulation. An exact analysis of the process, therefore, demands that we should, for a time, disregard all phenomena that conceal the workings of its inner mechanism.

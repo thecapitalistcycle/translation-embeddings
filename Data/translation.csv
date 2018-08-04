@@ -1,0 +1,44 @@
+country,year_of_publication,interpolated
+Germany,1867,0
+United States,1887,0
+France,1872,0
+Russia,1872,0
+Italy,1879,0
+Netherlands,1881,0
+Denmark,1883,1
+Spain,1886,0
+Poland,1890,0
+Bulgaria,1910,0
+Czech Republic,1915,0
+Estonia,1914,0
+Finland,1913,0
+Norway,1931,0
+Portugal,1962,0
+Hungary,1921,0
+Greece,1927,0
+Serbia,1934,0
+Ukraine,1925,0
+Latvia,1920,0
+Argentina,1918,0
+Japan,1920,0
+Egypt,1939,0
+Romania,1947,0
+Macedonia,1953,0
+Slovak Republic,1955,0
+Korea,1956,0
+Slovenia,1961,0
+Vietnam,1962,0
+Cuba,1962,0
+India,1960,1
+Albania,1971,0
+Iran,1973,0
+China,1934,0
+Turkey,1966,0
+Thailand,1999,0
+Indonesia,2005,0
+Pakistan,2006,0
+Bangladesh,1987,0
+Philippines,2017,0
+Tanzania,2018,0
+Nepal,2018,0
+Sri Lanka, 1984
