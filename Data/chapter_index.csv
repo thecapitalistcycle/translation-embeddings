@@ -1,34 +1,34 @@
-part_num,part_name,ch_num,ch_name
-1,Commodities and Money,1,The Commodity
-1,Commodities and Money,2,The Process of Exchange
-1,Commodities and Money,3,"Money, or the Circulation of Commodities"
-2,The Transformation of Money into Capital,4,The General Formula for Capital
-2,The Transformation of Money into Capital,5,Contradictions in the General Formula
-2,The Transformation of Money into Capital,6,The Sale and Purchase of Labour-Power
-3,The Production of Absolute Surplus-Value,7,The Labour Process and the Valorization Process
-3,The Production of Absolute Surplus-Value,8,Constant Capital and Variable Capital
-3,The Production of Absolute Surplus-Value,9,The Rate of Surplus-Value
-3,The Production of Absolute Surplus-Value,10,The Working Day
-3,The Production of Absolute Surplus-Value,11,The Rate and Mass of Surplus-Value
-4,The Production of Relative Surplus-Value,12,The Concept of Relative Surplus-Value
-4,The Production of Relative Surplus-Value,13,Co-operation
-4,The Production of Relative Surplus-Value,14,The Division of Labour and Manufacture
-4,The Production of Relative Surplus-Value,15,Machinery and Large-Scale Industry
-5,The Production of Absolute and Relative Surplus-Value,16,Absolute and Relative Surplus-Value
-5,The Production of Absolute and Relative Surplus-Value,17,Changes of Magnitude in the Price of Labour-Power and in Surplus-Value
-5,The Production of Absolute and Relative Surplus-Value,18,Different Formulae for the Rate of Surplus-Value
-6,Wages,19,The Transformation of the Value (and Respectively the Price) of Labour-Power into Wages
-6,Wages,20,Time-Wages
-6,Wages,21,Piece-Wages
-6,Wages,22,National Differences in Wages
-7,The Process of Accumulation of Capital,23,Simple Reproduction
-7,The Process of Accumulation of Capital,24,The Transformation of Surplus-Value into Capital
-7,The Process of Accumulation of Capital,25,The General Law of Capitalist Accumulation
-8,So-Called Primitive Accumulation,26,The Secret of Primitive Accumulation
-8,So-Called Primitive Accumulation,27,The Expropriation of the Agricultural Population from the Land
-8,So-Called Primitive Accumulation,28,Bloody Legislation against the Expropriated since the End of the Fifteenth Century. The Forcing Down of Wages by Act of Parliament
-8,So-Called Primitive Accumulation,29,The Genesis of the Capitalist Farmer
-8,So-Called Primitive Accumulation,30,Impact of the Agricultural Revolution on Industry. The Creation of a Home Market for Industrial Capital
-8,So-Called Primitive Accumulation,31,The Genesis of the Industrial Capitalist
-8,So-Called Primitive Accumulation,32,The Historical Tendency of Capitalist Accumulation
-8,So-Called Primitive Accumulation,33,The Modern Theory of Colonization
+part_num,part_name,ch_num,ch_name,short_name
+1,Commodities and Money,1,The Commodity,The Commodity
+1,Commodities and Money,2,The Process of Exchange,The Process of Exchange
+1,Commodities and Money,3,"Money, or the Circulation of Commodities","Money, or the Circulation of Commodities"
+2,The Transformation of Money into Capital,4,The General Formula for Capital,The General Formula for Capital
+2,The Transformation of Money into Capital,5,Contradictions in the General Formula,Contradictions in the General Formula
+2,The Transformation of Money into Capital,6,The Sale and Purchase of Labour-Power, The Sale and Purchase of Labour-Power
+3,The Production of Absolute Surplus-Value,7,The Labour Process and the Valorization Process,The Labour Process and the Valorization Process
+3,The Production of Absolute Surplus-Value,8,Constant Capital and Variable Capital,Constant Capital and Variable Capital
+3,The Production of Absolute Surplus-Value,9,The Rate of Surplus-Value,The Rate of Surplus-Value
+3,The Production of Absolute Surplus-Value,10,The Working Day,The Working Day
+3,The Production of Absolute Surplus-Value,11,The Rate and Mass of Surplus-Value,The Rate and Mass of Surplus-Value
+4,The Production of Relative Surplus-Value,12,The Concept of Relative Surplus-Value,The Concept of Relative Surplus-Value
+4,The Production of Relative Surplus-Value,13,Co-operation,Co-operation
+4,The Production of Relative Surplus-Value,14,The Division of Labour and Manufacture,The Division of Labour and Manufacture
+4,The Production of Relative Surplus-Value,15,Machinery and Large-Scale Industry,Machinery and Large-Scale Industry
+5,The Production of Absolute and Relative Surplus-Value,16,Absolute and Relative Surplus-Value,Absolute and Relative Surplus-Value
+5,The Production of Absolute and Relative Surplus-Value,17,Changes of Magnitude in the Price of Labour-Power and in Surplus-Value,Changes of Magnitude in the Price of Labour-Power and in Surplus-Value
+5,The Production of Absolute and Relative Surplus-Value,18,Different Formulae for the Rate of Surplus-Value,Different Formulae for the Rate of Surplus-Value
+6,Wages,19,The Transformation of the Value (and Respectively the Price) of Labour-Power into Wages,The Transformation of the Value of Labour-Power into Wages
+6,Wages,20,Time-Wages,Time-Wages
+6,Wages,21,Piece-Wages,Piece-Wages
+6,Wages,22,National Differences in Wages,National Differences in Wages
+7,The Process of Accumulation of Capital,23,Simple Reproduction,Simple Reproduction
+7,The Process of Accumulation of Capital,24,The Transformation of Surplus-Value into Capital,The Transformation of Surplus-Value into Capital
+7,The Process of Accumulation of Capital,25,The General Law of Capitalist Accumulation,The General Law of Capitalist Accumulation
+8,So-Called Primitive Accumulation,26,The Secret of Primitive Accumulation,The Secret of Primitive Accumulation
+8,So-Called Primitive Accumulation,27,The Expropriation of the Agricultural Population from the Land,The Expropriation of the Agricultural Population from the Land
+8,So-Called Primitive Accumulation,28,Bloody Legislation against the Expropriated since the End of the Fifteenth Century. The Forcing Down of Wages by Act of Parliament,Bloody Legislation against the Expropriated
+8,So-Called Primitive Accumulation,29,The Genesis of the Capitalist Farmer,The Genesis of the Capitalist Farmer
+8,So-Called Primitive Accumulation,30,Impact of the Agricultural Revolution on Industry. The Creation of a Home Market for Industrial Capital,Impact of the Agricultural Revolution on Industry
+8,So-Called Primitive Accumulation,31,The Genesis of the Industrial Capitalist,The Genesis of the Industrial Capitalist
+8,So-Called Primitive Accumulation,32,The Historical Tendency of Capitalist Accumulation,The Historical Tendency of Capitalist Accumulation
+8,So-Called Primitive Accumulation,33,The Modern Theory of Colonization,The Modern Theory of Colonization
