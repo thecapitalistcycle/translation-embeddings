@@ -11,7 +11,7 @@ rename countryname country
 replace country = lower(country)
 replace country = "egypt" if country == "egypt, arab rep."
 replace country = "iran" if country == "iran, islamic rep."
-replace country = "korea" if country == "korea, rep."
+replace country = "south korea" if country == "korea, rep."
 replace country = "macedonia" if country == "macedonia, fyr"
 replace country = "russia" if country == "russian federation"
 save "./gdp_cross.dta", replace
@@ -25,7 +25,7 @@ rename countryorarea country
 replace country = lower(country)
 replace country = "china" if country == "china, people's republic of"
 replace country = "iran" if country == "iran, islamic republic of"
-replace country = "korea" if country == "republic of korea"
+replace country = "south korea" if country == "republic of korea"
 replace country = "macedonia" if country == "the former yugoslav republic of macedonia"
 replace country = "russia" if country == "russian federation"
 replace country = "slovak republic" if country == "slovakia"
